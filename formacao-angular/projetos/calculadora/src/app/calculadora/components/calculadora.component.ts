@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { CalculadoraService } from '../services';
-import { runInThisContext } from 'vm';
 
 @Component({
   selector: 'app-calculadora',
